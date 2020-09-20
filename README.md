@@ -1,5 +1,8 @@
 # C++ Caesar's Code Decryptor/Encryptor
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/blazedzn/caesars_code_decryptor?style=flat-square)](https://github.com/blazedzn/caesars_code_decryptor/releases/tag/1.1)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/blazedzn/caesars_code_decryptor)](https://github.com/blazedzn/caesars_code_decryptor/blob/master/Source%20Code/main.cpp)
+
 Простая программа, с помощью которой можно зашифровать/расшифровать сообщение шифром Цезаря. Так же есть "фича", с помощью которой можно выбрать отступы между символами. Крч классная вещь всем советую использовать 😎
 
 Что бы испльзовать, нужно:
